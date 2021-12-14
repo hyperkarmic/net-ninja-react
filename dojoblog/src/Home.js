@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react'
 import BlogList from './BlogList'
 
+
 const Home = () => {
   const [blogs, setBlogs] = useState([
     { title: 'hate Gervais', body: "he's a twit", author: 'mario', id: 1 },
