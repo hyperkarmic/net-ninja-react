@@ -1,4 +1,3 @@
-//   npx json-server --watch data/db.json --port 8000
 {
   "blogs": [
     {
@@ -7,6 +6,17 @@
       "author": "mario",
       "id": 1
     },
-    { "title": "hate TV", "body": "it's rubbish", "author": "Si", "id": 2 }
+    {
+      "title": "hate TV",
+      "body": "it's rubbish",
+      "author": "Si",
+      "id": 2
+    },
+    {
+      "title": "Like A Boss",
+      "body": "Bowsers green cacti makes royal jello",
+      "author": "peach",
+      "id": 3
+    }
   ]
 }
